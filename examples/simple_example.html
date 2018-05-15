@@ -28,6 +28,7 @@
         }
     </style>
     <script src="acidentes.json"></script>
+    <script src="ciclovias.json"></script>
     <script type="text/javascript" src="https://www.google.com/jsapi"></script>
     <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBz-yMC-Z8wj7hrNZd2_0OF1CmeGYjcE54"></script>
     <script type="text/javascript" src="../src/chart-markerclusterer.js"></script>
@@ -58,13 +59,23 @@
                 }
             };
 
+            var ciclovias = [];
+            for (var j = 0; j < data_ciclovia.features.length; j++) {
+                var rua_ciclovia = data_ciclovia.features[j].nome;
+                var situacao_ciclovia = data_ciclovia.features[j].situacao;
+                var ciclovia = {     rua: rua_ciclovia, 
+                                situacao: situacao_ciclovia };
+                ciclovias.push(ciclovia);
+            }
+
             var qtdAcidentesBicicleta = 0;
             var markers = [];
             for (var i = 0; i < data.features.length; i++) {
                 var accident_title = "";
                 var accident_lng = data.features[i].LONGITUDE;
                 var accident_lat = data.features[i].LATITUDE;
-                
+                var possue_ciclovia = "";
+
                 if (data.features[i].FATAIS > 0) {
                     accident_title = "Fatais";
                 } else if (data.features[i].FERIDOS_GR > 0) {
@@ -75,14 +86,32 @@
                     accident_title = "Sem ferimentos";
                 }
 
+                for (var y = 0; y < ciclovias.length; y++) {
+                    if (data.features[i].LOG1.search(ciclovias[y].rua) || data.features[i].LOG2.search(ciclovias[y].rua)) {
+                        if (ciclovias[y].situacao == "CONCLUIDO") {
+                            possue_ciclovia += "Possue ciclovia: sim";
+                        } else {
+                            possue_ciclovia += "Possue ciclovia: não";
+                        }
+                    }
+                }
+
                 if (data.features[i].BICICLETA > 0) {
                     var accident_LatLng = new google.maps.LatLng(Number(accident_lat), Number(accident_lng));
                     var marker = new google.maps.Marker({
                         position: accident_LatLng,
-                        title: accident_title
+                        title: accident_title,
+                        possue_ciclovia: possue_ciclovia
                     });
-                    markers.push(marker);
-                    qtdAcidentesBicicleta++;
+
+                    google.maps.event.addListener(marker, 'click', function () {
+                        var infoWindow = new google.maps.InfoWindow({
+                            content: marker.possueCiclovia
+                        });
+                        infoWindow.open(map, marker);
+                    });
+                    
+                    markers.push(marker);                    
                 }
                 
             }

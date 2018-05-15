@@ -1,0 +1,2321 @@
+var data_ciclovia = {
+   "type": "FeatureCollection",
+   "features": [
+       {
+         "id": "1",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO PESSOA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2121326715977,-30.0466857150502],[-51.2118077731111,-30.0471090845852]]]}
+       },
+       {
+         "id": "2",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1326572387124,-30.1500155448541],[-51.1323783554948,-30.1496978508182]]]}
+       },
+       {
+         "id": "3",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1455431237269,-30.1580223122869],[-51.144741129624,-30.1572711090093]]]}
+       },
+       {
+         "id": "4",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1316173608758,-30.1483083177818],[-51.1313893238022,-30.1479262983344]]]}
+       },
+       {
+         "id": "5",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1328443191824,-30.1502036604912],[-51.1326572387124,-30.1500155448541]]]}
+       },
+       {
+         "id": "6",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.133504337561,-30.1508930654671],[-51.1331012364303,-30.1504661247576]]]}
+       },
+       {
+         "id": "7",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1335553344651,-30.1509471371067],[-51.133504337561,-30.1508930654671]]]}
+       },
+       {
+         "id": "8",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1311923211842,-30.1475882234857],[-51.1310032298669,-30.1472219505697]]]}
+       },
+       {
+         "id": "9",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1313893238022,-30.1479262983344],[-51.1311923211842,-30.1475882234857]]]}
+       },
+       {
+         "id": "10",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1331012364303,-30.1504661247576],[-51.1328443191824,-30.1502036604912]]]}
+       },
+       {
+         "id": "11",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1318052883316,-30.1486497835676],[-51.1316173608758,-30.1483083177818]]]}
+       },
+       {
+         "id": "12",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1320122797324,-30.1490566301772],[-51.1318052883316,-30.1486497835676]]]}
+       },
+       {
+         "id": "13",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1323783554948,-30.1496978508182],[-51.1322662384801,-30.1495367207478],[-51.1320122797324,-30.1490566301772]]]}
+       },
+       {
+         "id": "14",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1339382265638,-30.1511778996902],[-51.133745261873,-30.1510788700083],[-51.1335553344651,-30.1509471371067]]]}
+       },
+       {
+         "id": "15",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1349762705843,-30.1518443596538],[-51.1348682661632,-30.1517305855721],[-51.1345082280338,-30.151493037305],[-51.1339382265638,-30.1511778996902]]]}
+       },
+       {
+         "id": "16",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1368501692099,-30.1537716965861],[-51.1359231473442,-30.1533126101897]]]}
+       },
+       {
+         "id": "17",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1403781933351,-30.1550635510744],[-51.1392581890215,-30.1547524070195]]]}
+       },
+       {
+         "id": "18",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1353631467748,-30.1528497561062],[-51.1352381819419,-30.1525499506554],[-51.1351111953722,-30.1520753735391],[-51.1349762705843,-30.1518443596538]]]}
+       },
+       {
+         "id": "19",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1359231473442,-30.1533126101897],[-51.1356162239985,-30.1531404091043],[-51.1355072713105,-30.1530469327236],[-51.1353631467748,-30.1528497561062]]]}
+       },
+       {
+         "id": "20",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1378211828109,-30.1542532813614],[-51.1368501692099,-30.1537716965861]]]}
+       },
+       {
+         "id": "21",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1443050730086,-30.1568735563538],[-51.1441061186654,-30.156685470355]]]}
+       },
+       {
+         "id": "22",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1392581890215,-30.1547524070195],[-51.1389581100014,-30.1547267908357],[-51.1386881270794,-30.1546504011838],[-51.1384012289797,-30.1545390745678],[-51.1378211828109,-30.1542532813614]]]}
+       },
+       {
+         "id": "23",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1414921401812,-30.1553295897541],[-51.1403781933351,-30.1550635510744]]]}
+       },
+       {
+         "id": "24",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1431970124314,-30.1559839878979],[-51.1426190866611,-30.1557218929281],[-51.1422961515802,-30.1555936997819],[-51.1417121530628,-30.1553913689296],[-51.1414921401812,-30.1553295897541]]]}
+       },
+       {
+         "id": "25",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1432820605181,-30.1560267429642],[-51.1431970124314,-30.1559839878979]]]}
+       },
+       {
+         "id": "26",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1441061186654,-30.156685470355],[-51.1435900217627,-30.1562282415967],[-51.1432820605181,-30.1560267429642]]]}
+       },
+       {
+         "id": "27",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1474109743948,-30.1593744410199],[-51.1472310355678,-30.1592201657852],[-51.1468211011346,-30.1589511353636]]]}
+       },
+       {
+         "id": "28",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1475150755937,-30.1594656568816],[-51.1474109743948,-30.1593744410199]]]}
+       },
+       {
+         "id": "29",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.144741129624,-30.1572711090093],[-51.1443050730086,-30.1568735563538]]]}
+       },
+       {
+         "id": "30",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1468211011346,-30.1589511353636],[-51.1462390964453,-30.1585808141924],[-51.146009026924,-30.1584153175355],[-51.1455431237269,-30.1580223122869]]]}
+       },
+       {
+         "id": "31",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1504798888326,-30.1629431030491],[-51.1489260085758,-30.1612050326919],[-51.1484030323627,-30.1604084324805],[-51.1475150755937,-30.1594656568816]]]}
+       },
+       {
+         "id": "32",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1515549967703,-30.1639341283128],[-51.1513400300643,-30.1637945579396],[-51.1510439605125,-30.1635457057235],[-51.1504798888326,-30.1629431030491]]]}
+       },
+       {
+         "id": "33",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1529858968462,-30.1647555942358],[-51.152808981222,-30.1646802533732],[-51.152515953036,-30.1645148416374],[-51.1515549967703,-30.1639341283128]]]}
+       },
+       {
+         "id": "34",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1545458381589,-30.1655236495088],[-51.1539587691665,-30.165131065039],[-51.1536679006825,-30.1650006081157],[-51.1529908158867,-30.1647555885007]]]}
+       },
+       {
+         "id": "35",
+         "situacao": "CONCLUIDO",
+         "nome": "LOUREIRO DA SILVA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2227395944493,-30.0349727792711],[-51.2223615666247,-30.034935122203]]]}
+       },
+       {
+         "id": "36",
+         "situacao": "CONCLUIDO",
+         "nome": "JUSCELINO KUBITSCHEK DE OLIVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1098465429788,-30.0208570820081],[-51.1083105781166,-30.020975625171]]]}
+       },
+       {
+         "id": "37",
+         "situacao": "CONCLUIDO",
+         "nome": "DR NILO PECANHA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1772974152286,-30.0283913685329],[-51.1744424094904,-30.0275788073046]]]}
+       },
+       {
+         "id": "38",
+         "situacao": "CONCLUIDO",
+         "nome": "LOUREIRO DA SILVA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2247584193521,-30.0357508074901],[-51.2244035625186,-30.0354199015456]]]}
+       },
+       {
+         "id": "39",
+         "situacao": "CONCLUIDO",
+         "nome": "JUSCELINO KUBITSCHEK DE OLIVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.113873402952,-30.0200406622368],[-51.1129194174128,-30.0203188725373]]]}
+       },
+       {
+         "id": "40",
+         "situacao": "CONCLUIDO",
+         "nome": "JUSCELINO KUBITSCHEK DE OLIVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1196974366361,-30.0196994696279],[-51.1186384282148,-30.0197669571452]]]}
+       },
+       {
+         "id": "41",
+         "situacao": "CONCLUIDO",
+         "nome": "JUSCELINO KUBITSCHEK DE OLIVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1186384282148,-30.0197669571452],[-51.1177823104325,-30.0197925334297]]]}
+       },
+       {
+         "id": "42",
+         "situacao": "CONCLUIDO",
+         "nome": "JUSCELINO KUBITSCHEK DE OLIVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1177823104325,-30.0197925334297],[-51.1171503434225,-30.0198100109709]]]}
+       },
+       {
+         "id": "43",
+         "situacao": "CONCLUIDO",
+         "nome": "JUSCELINO KUBITSCHEK DE OLIVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1171503434225,-30.0198100109709],[-51.1170573792913,-30.0198134768456]]]}
+       },
+       {
+         "id": "44",
+         "situacao": "CONCLUIDO",
+         "nome": "JUSCELINO KUBITSCHEK DE OLIVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1170573792913,-30.0198134768456],[-51.1166234906557,-30.0198273929437]]]}
+       },
+       {
+         "id": "45",
+         "situacao": "CONCLUIDO",
+         "nome": "JUSCELINO KUBITSCHEK DE OLIVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1166234906557,-30.0198273929437],[-51.1160083658434,-30.0198437231278]]]}
+       },
+       {
+         "id": "46",
+         "situacao": "CONCLUIDO",
+         "nome": "JUSCELINO KUBITSCHEK DE OLIVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1160083658434,-30.0198437231278],[-51.1154544622194,-30.0198588692162]]]}
+       },
+       {
+         "id": "47",
+         "situacao": "CONCLUIDO",
+         "nome": "JUSCELINO KUBITSCHEK DE OLIVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1154544622194,-30.0198588692162],[-51.1150244620228,-30.0198739041555]]]}
+       },
+       {
+         "id": "48",
+         "situacao": "CONCLUIDO",
+         "nome": "JUSCELINO KUBITSCHEK DE OLIVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1150244620228,-30.0198739041555],[-51.1146723755897,-30.0198967636441],[-51.1142225084878,-30.0199603002767]]]}
+       },
+       {
+         "id": "49",
+         "situacao": "CONCLUIDO",
+         "nome": "JUSCELINO KUBITSCHEK DE OLIVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1142225084878,-30.0199603002767],[-51.113873402952,-30.0200406622368]]]}
+       },
+       {
+         "id": "50",
+         "situacao": "CONCLUIDO",
+         "nome": "JUSCELINO KUBITSCHEK DE OLIVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1122445558464,-30.0205077585379],[-51.1116765018678,-30.0206187466985]]]}
+       },
+       {
+         "id": "51",
+         "situacao": "CONCLUIDO",
+         "nome": "JUSCELINO KUBITSCHEK DE OLIVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1129194174128,-30.0203188725373],[-51.1122445558464,-30.0205077585379]]]}
+       },
+       {
+         "id": "52",
+         "situacao": "CONCLUIDO",
+         "nome": "JUSCELINO KUBITSCHEK DE OLIVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1116765018678,-30.0206187466985],[-51.1105565380123,-30.0207955970978],[-51.1098465429788,-30.0208570820081]]]}
+       },
+       {
+         "id": "53",
+         "situacao": "CONCLUIDO",
+         "nome": "VASCO DA GAMA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2124007773633,-30.031638718037],[-51.2109156705115,-30.0316974866421]]]}
+       },
+       {
+         "id": "54",
+         "situacao": "CONCLUIDO",
+         "nome": "VASCO DA GAMA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2071207412642,-30.0321038104364],[-51.2058187590006,-30.032364072389]]]}
+       },
+       {
+         "id": "55",
+         "situacao": "CONCLUIDO",
+         "nome": "LOUREIRO DA SILVA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2223615666247,-30.034935122203],[-51.2220516093103,-30.0349029453888]]]}
+       },
+       {
+         "id": "56",
+         "situacao": "CONCLUIDO",
+         "nome": "TIRADENTES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2042110687645,-30.0374272072901],[-51.2041968921745,-30.037544498743],[-51.2041490249603,-30.0377430290176]]]}
+       },
+       {
+         "id": "57",
+         "situacao": "CONCLUIDO",
+         "nome": "LOUREIRO DA SILVA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2308523479904,-30.0374992954596],[-51.2306034173522,-30.0375921942818],[-51.2303934084405,-30.0377041940048],[-51.2302133971417,-30.0378285435938]]]}
+       },
+       {
+         "id": "58",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2069158365273,-30.0441919043578],[-51.2061797637471,-30.0437589382728]]]}
+       },
+       {
+         "id": "59",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2209394947602,-30.0438578818393],[-51.2204745666817,-30.0441608555556],[-51.2202955682824,-30.0443145075833]]]}
+       },
+       {
+         "id": "60",
+         "situacao": "CONCLUIDO",
+         "nome": "DR NILO PECANHA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1781143703418,-30.0286259320676],[-51.1772974152286,-30.0283913685329]]]}
+       },
+       {
+         "id": "61",
+         "situacao": "CONCLUIDO",
+         "nome": "DR NILO PECANHA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1791452550465,-30.0289233446244],[-51.1781143703418,-30.0286259320676]]]}
+       },
+       {
+         "id": "62",
+         "situacao": "CONCLUIDO",
+         "nome": "DR NILO PECANHA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1794773233506,-30.0290187377077],[-51.1791452550465,-30.0289233446244]]]}
+       },
+       {
+         "id": "63",
+         "situacao": "CONCLUIDO",
+         "nome": "IRMAO JOSE OTAO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2167126645219,-30.0306123435891],[-51.2160426951849,-30.0307566496166]]]}
+       },
+       {
+         "id": "64",
+         "situacao": "CONCLUIDO",
+         "nome": "IRMAO JOSE OTAO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2142407515714,-30.0311858256349],[-51.2124566740038,-30.0316442653827],[-51.2124007773633,-30.031638718037]]]}
+       },
+       {
+         "id": "65",
+         "situacao": "CONCLUIDO",
+         "nome": "IRMAO JOSE OTAO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2160426951849,-30.0307566496166],[-51.2152327106727,-30.030948540062]]]}
+       },
+       {
+         "id": "66",
+         "situacao": "CONCLUIDO",
+         "nome": "IRMAO JOSE OTAO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2152327106727,-30.030948540062],[-51.2142407515714,-30.0311858256349]]]}
+       },
+       {
+         "id": "67",
+         "situacao": "CONCLUIDO",
+         "nome": "MARIANTE",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2042127940958,-30.0356613969658],[-51.2042089171053,-30.0361406291327]]]}
+       },
+       {
+         "id": "68",
+         "situacao": "CONCLUIDO",
+         "nome": "VASCO DA GAMA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2098377741817,-30.0317488245337],[-51.2097428354001,-30.0317410827056]]]}
+       },
+       {
+         "id": "69",
+         "situacao": "CONCLUIDO",
+         "nome": "VASCO DA GAMA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2109156705115,-30.0316974866421],[-51.2099196997964,-30.0317306523775],[-51.2098377741817,-30.0317488245337]]]}
+       },
+       {
+         "id": "70",
+         "situacao": "CONCLUIDO",
+         "nome": "VASCO DA GAMA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2097428354001,-30.0317410827056],[-51.2096746895914,-30.0317648703892],[-51.2085014216857,-30.0318343907599]]]}
+       },
+       {
+         "id": "71",
+         "situacao": "CONCLUIDO",
+         "nome": "VASCO DA GAMA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2085014216857,-30.0318343907599],[-51.2083658575375,-30.0318424987411],[-51.2074908585015,-30.0320175305712]]]}
+       },
+       {
+         "id": "72",
+         "situacao": "CONCLUIDO",
+         "nome": "VASCO DA GAMA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2074908585015,-30.0320175305712],[-51.2071207412642,-30.0321038104364]]]}
+       },
+       {
+         "id": "73",
+         "situacao": "CONCLUIDO",
+         "nome": "VASCO DA GAMA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2058187590006,-30.032364072389],[-51.2057347541329,-30.0323957766337],[-51.2042569083496,-30.0326856146941]]]}
+       },
+       {
+         "id": "74",
+         "situacao": "CONCLUIDO",
+         "nome": "LOUREIRO DA SILVA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2220516093103,-30.0349029453888],[-51.221658601096,-30.0348201665814],[-51.2213646301507,-30.0346921163634]]]}
+       },
+       {
+         "id": "75",
+         "situacao": "CONCLUIDO",
+         "nome": "PRESIDENTE JOAO GOULART",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2410301546504,-30.0353250895185],[-51.2410412353037,-30.0355528425911],[-51.2410272272258,-30.0357220068615],[-51.2409691449944,-30.0358856136989],[-51.2408651302469,-30.0360797498956],[-51.2406622286477,-30.0363112767528]]]}
+       },
+       {
+         "id": "76",
+         "situacao": "CONCLUIDO",
+         "nome": "LOUREIRO DA SILVA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2244035625186,-30.0354199015456],[-51.224245553716,-30.03531756046],[-51.2239774807237,-30.0351827062723],[-51.2236404828088,-30.0350840516169],[-51.2233855681118,-30.0350371260521],[-51.2227395944493,-30.0349727792711]]]}
+       },
+       {
+         "id": "77",
+         "situacao": "CONCLUIDO",
+         "nome": "MARIANTE",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2042119065306,-30.0338065110014],[-51.2042127940958,-30.0356613969658]]]}
+       },
+       {
+         "id": "78",
+         "situacao": "CONCLUIDO",
+         "nome": "LOUREIRO DA SILVA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2260585106415,-30.0371580675132],[-51.2247584193521,-30.0357508074901]]]}
+       },
+       {
+         "id": "79",
+         "situacao": "CONCLUIDO",
+         "nome": "LOUREIRO DA SILVA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2406622286477,-30.0363112767528],[-51.2405372771455,-30.0364220089165],[-51.2403281900816,-30.0365746157224],[-51.2399752033988,-30.0367737158719],[-51.2396562357083,-30.0369062255353],[-51.2390891731105,-30.0370042302095],[-51.2372812529015,-30.0371732590421]]]}
+       },
+       {
+         "id": "80",
+         "situacao": "CONCLUIDO",
+         "nome": "NILOPOLIS",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1877931933768,-30.0374302447066],[-51.1876820944293,-30.0373593649253],[-51.1857392501608,-30.0354181541075]]]}
+       },
+       {
+         "id": "81",
+         "situacao": "CONCLUIDO",
+         "nome": "NILOPOLIS",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1878301639211,-30.0374493609067],[-51.1877931933768,-30.0374302447066]]]}
+       },
+       {
+         "id": "82",
+         "situacao": "CONCLUIDO",
+         "nome": "TIRADENTES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2042089171053,-30.0361406291327],[-51.2042208346953,-30.0362646457933],[-51.2042198305735,-30.0373550278742],[-51.2042110687645,-30.0374272072901]]]}
+       },
+       {
+         "id": "83",
+         "situacao": "CONCLUIDO",
+         "nome": "LOUREIRO DA SILVA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2328043276075,-30.0372737199158],[-51.2313283838786,-30.037402613876],[-51.2310754433908,-30.0374425244247],[-51.2308523479904,-30.0374992954596]]]}
+       },
+       {
+         "id": "84",
+         "situacao": "CONCLUIDO",
+         "nome": "TIRADENTES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2041490249603,-30.0377430290176],[-51.2040879152004,-30.0380408078008]]]}
+       },
+       {
+         "id": "85",
+         "situacao": "CONCLUIDO",
+         "nome": "NILOPOLIS",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.189478129478,-30.0382182697522],[-51.1888901373978,-30.037987959511],[-51.1878301639211,-30.0374493609067]]]}
+       },
+       {
+         "id": "86",
+         "situacao": "CONCLUIDO",
+         "nome": "LOUREIRO DA SILVA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2302133971417,-30.0378285435938],[-51.2297374225657,-30.0382341804948]]]}
+       },
+       {
+         "id": "87",
+         "situacao": "CONCLUIDO",
+         "nome": "LOUREIRO DA SILVA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2272054330278,-30.0382994679876],[-51.2270925178941,-30.0382263696929],[-51.2269125196523,-30.038074455594],[-51.2260585106415,-30.0371580675132]]]}
+       },
+       {
+         "id": "88",
+         "situacao": "CONCLUIDO",
+         "nome": "NILOPOLIS",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.191006104122,-30.0384077509778],[-51.1903441424805,-30.0383816482778],[-51.1901121162136,-30.0383560491333],[-51.189478129478,-30.0382182697522]]]}
+       },
+       {
+         "id": "89",
+         "situacao": "CONCLUIDO",
+         "nome": "NILOPOLIS",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1919790901001,-30.0384300136782],[-51.191006104122,-30.0384077509778]]]}
+       },
+       {
+         "id": "90",
+         "situacao": "CONCLUIDO",
+         "nome": "LOUREIRO DA SILVA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2297374225657,-30.0382341804948],[-51.2296083588114,-30.0383246130081],[-51.2293504466614,-30.0384581186541]]]}
+       },
+       {
+         "id": "91",
+         "situacao": "CONCLUIDO",
+         "nome": "NEUSA GOULART BRIZOLA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1919790901001,-30.0384300136782],[-51.1931820735106,-30.0385173323394]]]}
+       },
+       {
+         "id": "92",
+         "situacao": "CONCLUIDO",
+         "nome": "NEUSA GOULART BRIZOLA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1931820735106,-30.0385173323394],[-51.1945250670392,-30.0384612289011]]]}
+       },
+       {
+         "id": "93",
+         "situacao": "CONCLUIDO",
+         "nome": "LOUREIRO DA SILVA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2293504466614,-30.0384581186541],[-51.2291173800386,-30.0385476044519]]]}
+       },
+       {
+         "id": "94",
+         "situacao": "CONCLUIDO",
+         "nome": "LOUREIRO DA SILVA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2278944166407,-30.0385914492587],[-51.2276533760775,-30.0385242115189],[-51.2274733974088,-30.038452357114],[-51.2272054330278,-30.0382994679876]]]}
+       },
+       {
+         "id": "95",
+         "situacao": "CONCLUIDO",
+         "nome": "LOUREIRO DA SILVA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2291173800386,-30.0385476044519],[-51.2287354419761,-30.0386384762959],[-51.2284213651221,-30.0386525528247]]]}
+       },
+       {
+         "id": "96",
+         "situacao": "CONCLUIDO",
+         "nome": "LOUREIRO DA SILVA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2284213651221,-30.0386525528247],[-51.2282554825506,-30.0386528407601],[-51.2278944166407,-30.0385914492587]]]}
+       },
+       {
+         "id": "97",
+         "situacao": "CONCLUIDO",
+         "nome": "NEUSA GOULART BRIZOLA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1945250670392,-30.0384612289011],[-51.1954589677471,-30.0386256002539],[-51.1959279810354,-30.0388910142839]]]}
+       },
+       {
+         "id": "98",
+         "situacao": "CONCLUIDO",
+         "nome": "NEUSA GOULART BRIZOLA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1959279810354,-30.0388910142839],[-51.1972409524133,-30.0396242410781]]]}
+       },
+       {
+         "id": "99",
+         "situacao": "CONCLUIDO",
+         "nome": "NEUSA GOULART BRIZOLA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1972409524133,-30.0396242410781],[-51.1975090366539,-30.0397771911702]]]}
+       },
+       {
+         "id": "100",
+         "situacao": "CONCLUIDO",
+         "nome": "NEUSA GOULART BRIZOLA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1975090366539,-30.0397771911702],[-51.1978169627025,-30.0398432566832],[-51.198005898257,-30.0398666514698]]]}
+       },
+       {
+         "id": "101",
+         "situacao": "CONCLUIDO",
+         "nome": "TIRADENTES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2040879152004,-30.0380408078008],[-51.2040778088447,-30.0380893096648],[-51.204096863833,-30.0398776391982]]]}
+       },
+       {
+         "id": "102",
+         "situacao": "CONCLUIDO",
+         "nome": "SILVA SO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.204096863833,-30.0398776391982],[-51.2040849036521,-30.0406816296081]]]}
+       },
+       {
+         "id": "103",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2061797637471,-30.0437589382728],[-51.205853817608,-30.0436049690687],[-51.2054098449237,-30.0434861387714],[-51.2053148876324,-30.043475011272]]]}
+       },
+       {
+         "id": "104",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2184946068869,-30.0469921527334],[-51.2183905533571,-30.0475628852526]]]}
+       },
+       {
+         "id": "105",
+         "situacao": "CONCLUIDO",
+         "nome": "SILVA SO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2040849036521,-30.0406816296081],[-51.2041108753719,-30.0419715524748],[-51.2041378594062,-30.0422534079668]]]}
+       },
+       {
+         "id": "106",
+         "situacao": "CONCLUIDO",
+         "nome": "SILVA SO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2041378594062,-30.0422534079668],[-51.2041019484152,-30.0423583297804],[-51.2040239356602,-30.0430259840539]]]}
+       },
+       {
+         "id": "107",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2046678776729,-30.0430170904714],[-51.2040239356602,-30.0430259840539]]]}
+       },
+       {
+         "id": "108",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2053148876324,-30.043475011272],[-51.2046838988214,-30.0434816322619]]]}
+       },
+       {
+         "id": "109",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2202955682824,-30.0443145075833],[-51.2199975400042,-30.0445619487569]]]}
+       },
+       {
+         "id": "110",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2199975400042,-30.0445619487569],[-51.2199115160866,-30.044635385825]]]}
+       },
+       {
+         "id": "111",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2082197964408,-30.0449599906039],[-51.2069158365273,-30.0441919043578]]]}
+       },
+       {
+         "id": "112",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2095657697028,-30.0457437826519],[-51.2082197964408,-30.0449599906039]]]}
+       },
+       {
+         "id": "113",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2199115160866,-30.044635385825],[-51.2195915453226,-30.0449245831893],[-51.2193206786692,-30.0452215910943],[-51.2190835415516,-30.0455343280677],[-51.2189026076091,-30.0458413334939]]]}
+       },
+       {
+         "id": "114",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2189026076091,-30.0458413334939],[-51.2187515762819,-30.0461178442498],[-51.2186035833831,-30.0465240222652]]]}
+       },
+       {
+         "id": "115",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2186035833831,-30.0465240222652],[-51.2185535577708,-30.0466876056956],[-51.2184946068869,-30.0469921527334]]]}
+       },
+       {
+         "id": "116",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2137517391637,-30.0472683124715],[-51.2134367071225,-30.0472282305894],[-51.2131567681151,-30.0471587739172],[-51.2128787279936,-30.0470678896017],[-51.21260272892,-30.0469465567125],[-51.2121326715977,-30.0466857150502]]]}
+       },
+       {
+         "id": "117",
+         "situacao": "CONCLUIDO",
+         "nome": "AZENHA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2137517391637,-30.0472683124715],[-51.21365165942,-30.0477409345588]]]}
+       },
+       {
+         "id": "118",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2183905533571,-30.0475628852526],[-51.2183375783895,-30.047859529068]]]}
+       },
+       {
+         "id": "119",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2147396912079,-30.0478778558211],[-51.21365165942,-30.0477409345588]]]}
+       },
+       {
+         "id": "120",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2328024069541,-30.0478155522616],[-51.2319485539546,-30.0478625346048],[-51.231447364934,-30.0478901093901],[-51.2297903740071,-30.0478422731403],[-51.2294484554003,-30.0478789528939]]]}
+       },
+       {
+         "id": "121",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2156186868075,-30.0479936869611],[-51.2147396912079,-30.0478778558211]]]}
+       },
+       {
+         "id": "122",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2294484554003,-30.0478789528939],[-51.2277055295269,-30.048012782462]]]}
+       },
+       {
+         "id": "123",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2173576890595,-30.0482073215578],[-51.2168616626273,-30.0481562717261],[-51.2156186868075,-30.0479936869611]]]}
+       },
+       {
+         "id": "124",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2277055295269,-30.048012782462],[-51.2240405448589,-30.0483088666663]]]}
+       },
+       {
+         "id": "125",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2182556528528,-30.0483264868262],[-51.2173576890595,-30.0482073215578]]]}
+       },
+       {
+         "id": "126",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2195406024638,-30.0484912310315],[-51.2182556528528,-30.0483264868262]]]}
+       },
+       {
+         "id": "127",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2240405448589,-30.0483088666663],[-51.2216675026263,-30.0484978117773]]]}
+       },
+       {
+         "id": "128",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2216675026263,-30.0484978117773],[-51.2209495860671,-30.0485508890007],[-51.2203885772949,-30.0485676166475],[-51.2198616357977,-30.048531288232],[-51.2195406024638,-30.0484912310315]]]}
+       },
+       {
+         "id": "129",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2182556528528,-30.0483264868262],[-51.2181835827995,-30.0490031594447],[-51.2182386483171,-30.0500291735388]]]}
+       },
+       {
+         "id": "130",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2182386483171,-30.0500291735388],[-51.2183096447174,-30.0512265537963]]]}
+       },
+       {
+         "id": "131",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2183096447174,-30.0512265537963],[-51.2183956306336,-30.0523878266687]]]}
+       },
+       {
+         "id": "132",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2184696765323,-30.0535705430553],[-51.2184805611824,-30.0542482049813],[-51.2184325743943,-30.0547511888155]]]}
+       },
+       {
+         "id": "133",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1594627399146,-30.0556139530435],[-51.1588577588868,-30.0557240613299],[-51.1582497874996,-30.0558905503215],[-51.1559037318304,-30.0568518031949]]]}
+       },
+       {
+         "id": "134",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2181857056247,-30.0572142489554],[-51.2181356864262,-30.0573834701206]]]}
+       },
+       {
+         "id": "135",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1506379205559,-30.0625319668654],[-51.150168813271,-30.0639160536497]]]}
+       },
+       {
+         "id": "136",
+         "situacao": "CONCLUIDO",
+         "nome": "ICARAI",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2422181650688,-30.0915533117259],[-51.2423611876806,-30.0921123277102]]]}
+       },
+       {
+         "id": "137",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2183956306336,-30.0523878266687],[-51.2184515902603,-30.0530812002302],[-51.2184696765323,-30.0535705430553]]]}
+       },
+       {
+         "id": "138",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2182555907352,-30.0564992429752],[-51.2181857056247,-30.0572142489554]]]}
+       },
+       {
+         "id": "139",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1750729023662,-30.0573824533511],[-51.1724924703857,-30.0562582749813],[-51.1719714079142,-30.0560751601175],[-51.1714605270328,-30.0559698337423],[-51.1709625399707,-30.0559186134527],[-51.1692405514326,-30.0559185852647]]]}
+       },
+       {
+         "id": "140",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.167152625961,-30.0554803690375],[-51.165866496893,-30.0554865075905]]]}
+       },
+       {
+         "id": "141",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.165866496893,-30.0554865075905],[-51.164417533784,-30.055491709738]]]}
+       },
+       {
+         "id": "142",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.164417533784,-30.055491709738],[-51.1622216193696,-30.0554820336557]]]}
+       },
+       {
+         "id": "143",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1622216193696,-30.0554820336557],[-51.1601116664516,-30.0555274680651],[-51.1594627399146,-30.0556139530435]]]}
+       },
+       {
+         "id": "144",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1692405514326,-30.0559185852647],[-51.1670835568533,-30.0559348749173]]]}
+       },
+       {
+         "id": "145",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2184325743943,-30.0547511888155],[-51.2183065864019,-30.0559635540954]]]}
+       },
+       {
+         "id": "146",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2183065864019,-30.0559635540954],[-51.2182555907352,-30.0564992429752]]]}
+       },
+       {
+         "id": "147",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1559037318304,-30.0568518031949],[-51.1539918051732,-30.0576715582544],[-51.1537345528942,-30.0578060424111]]]}
+       },
+       {
+         "id": "148",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2181356864262,-30.0573834701206],[-51.2180195685033,-30.0577783182406]]]}
+       },
+       {
+         "id": "149",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2180195685033,-30.0577783182406],[-51.2179536978606,-30.0579599688426],[-51.2178126619444,-30.0582229301812],[-51.2175496195803,-30.0585605138467]]]}
+       },
+       {
+         "id": "150",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1537345528942,-30.0578060424111],[-51.1534117583356,-30.0579924711998],[-51.1528677511076,-30.0583606988515],[-51.1524030574266,-30.0587852116351]]]}
+       },
+       {
+         "id": "151",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2175496195803,-30.0585605138467],[-51.216996725402,-30.0590553105238]]]}
+       },
+       {
+         "id": "152",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.216996725402,-30.0590553105238],[-51.2166236143505,-30.0593716499754]]]}
+       },
+       {
+         "id": "153",
+         "situacao": "CONCLUIDO",
+         "nome": "JOSE DE ALENCAR",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2302894464418,-30.0594307403842],[-51.2289864940991,-30.0596089195601]]]}
+       },
+       {
+         "id": "154",
+         "situacao": "CONCLUIDO",
+         "nome": "JOSE DE ALENCAR",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2289864940991,-30.0596089195601],[-51.2282703870278,-30.0597071366368]]]}
+       },
+       {
+         "id": "155",
+         "situacao": "CONCLUIDO",
+         "nome": "JOSE DE ALENCAR",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2282703870278,-30.0597071366368],[-51.2274374918545,-30.0598213388]]]}
+       },
+       {
+         "id": "156",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1524030574266,-30.0587852116351],[-51.1523818624329,-30.0588055326517],[-51.1522945121217,-30.0589003515914],[-51.1522298061676,-30.0589692090686],[-51.1520957589827,-30.0591486508637],[-51.1519407986641,-30.0593213510086],[-51.1518098337586,-30.0595041720701],[-51.1515541785837,-30.0599476092326]]]}
+       },
+       {
+         "id": "157",
+         "situacao": "CONCLUIDO",
+         "nome": "JOSE DE ALENCAR",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2274374918545,-30.0598213388],[-51.2269884832168,-30.0598818763707]]]}
+       },
+       {
+         "id": "158",
+         "situacao": "CONCLUIDO",
+         "nome": "JOSE DE ALENCAR",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2269884832168,-30.0598818763707],[-51.2262275034358,-30.0599857985097]]]}
+       },
+       {
+         "id": "159",
+         "situacao": "CONCLUIDO",
+         "nome": "JOSE DE ALENCAR",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2262275034358,-30.0599857985097],[-51.2257605154293,-30.0600497459417]]]}
+       },
+       {
+         "id": "160",
+         "situacao": "CONCLUIDO",
+         "nome": "JOSE DE ALENCAR",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2257605154293,-30.0600497459417],[-51.2249005583025,-30.0601651054462]]]}
+       },
+       {
+         "id": "161",
+         "situacao": "CONCLUIDO",
+         "nome": "JOSE DE ALENCAR",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2249005583025,-30.0601651054462],[-51.2247865250218,-30.0601810867875]]]}
+       },
+       {
+         "id": "162",
+         "situacao": "CONCLUIDO",
+         "nome": "JOSE DE ALENCAR",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2247865250218,-30.0601810867875],[-51.2235635723842,-30.0603489272856]]]}
+       },
+       {
+         "id": "163",
+         "situacao": "CONCLUIDO",
+         "nome": "JOSE DE ALENCAR",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2235635723842,-30.0603489272856],[-51.2233095880225,-30.0603843135358]]]}
+       },
+       {
+         "id": "164",
+         "situacao": "CONCLUIDO",
+         "nome": "JOSE DE ALENCAR",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2233095880225,-30.0603843135358],[-51.2229345966147,-30.0604334364116]]]}
+       },
+       {
+         "id": "165",
+         "situacao": "CONCLUIDO",
+         "nome": "JOSE DE ALENCAR",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2229345966147,-30.0604334364116],[-51.2219716137643,-30.060563610247]]]}
+       },
+       {
+         "id": "166",
+         "situacao": "CONCLUIDO",
+         "nome": "CEL GASTAO HASLOCHER MAZERON",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2166236143505,-30.0593716499754],[-51.2150367592066,-30.0606732343179],[-51.2150316538705,-30.0607848735084]]]}
+       },
+       {
+         "id": "167",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1515541785837,-30.0599476092326],[-51.1514858197705,-30.0600660847314],[-51.1513208522758,-30.0604789722269],[-51.1506379205559,-30.0625319668654]]]}
+       },
+       {
+         "id": "168",
+         "situacao": "CONCLUIDO",
+         "nome": "DIARIO DE NOTICIAS",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2503490544075,-30.0949287044691],[-51.2502003015623,-30.0951911848329],[-51.2481781101189,-30.0981272538183]]]}
+       },
+       {
+         "id": "169",
+         "situacao": "CONCLUIDO",
+         "nome": "PADRE CACIQUE",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2446011982994,-30.0815224491694],[-51.2440792347449,-30.0816079879174]]]}
+       },
+       {
+         "id": "170",
+         "situacao": "CONCLUIDO",
+         "nome": "PADRE CACIQUE",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2456391323855,-30.08128823151],[-51.2453991738013,-30.081377758772],[-51.2446011982994,-30.0815224491694]]]}
+       },
+       {
+         "id": "171",
+         "situacao": "CONCLUIDO",
+         "nome": "CHUI",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2440792347449,-30.0816079879174],[-51.2436621862998,-30.0818500643546],[-51.242963162537,-30.0823001360395]]]}
+       },
+       {
+         "id": "172",
+         "situacao": "CONCLUIDO",
+         "nome": "CHUI",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.242963162537,-30.0823001360395],[-51.2421492636426,-30.0828316015674]]]}
+       },
+       {
+         "id": "173",
+         "situacao": "CONCLUIDO",
+         "nome": "CHUI",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2421492636426,-30.0828316015674],[-51.2403193324487,-30.0840256863863]]]}
+       },
+       {
+         "id": "174",
+         "situacao": "CONCLUIDO",
+         "nome": "ICARAI",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2403193324487,-30.0840256863863],[-51.2405212626839,-30.0847593722552]]]}
+       },
+       {
+         "id": "175",
+         "situacao": "CONCLUIDO",
+         "nome": "ICARAI",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2405212626839,-30.0847593722552],[-51.2408512303209,-30.0860938240914]]]}
+       },
+       {
+         "id": "176",
+         "situacao": "CONCLUIDO",
+         "nome": "ICARAI",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2427152677149,-30.0930791381467],[-51.2428382356871,-30.0932559406203]]]}
+       },
+       {
+         "id": "177",
+         "situacao": "CONCLUIDO",
+         "nome": "ICARAI",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2408512303209,-30.0860938240914],[-51.2411762867448,-30.0874046043939]]]}
+       },
+       {
+         "id": "178",
+         "situacao": "CONCLUIDO",
+         "nome": "ICARAI",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2411762867448,-30.0874046043939],[-51.2415021898406,-30.0887266582817]]]}
+       },
+       {
+         "id": "179",
+         "situacao": "CONCLUIDO",
+         "nome": "ICARAI",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2415021898406,-30.0887266582817],[-51.2418373292028,-30.0900441834556]]]}
+       },
+       {
+         "id": "180",
+         "situacao": "CONCLUIDO",
+         "nome": "ICARAI",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2418373292028,-30.0900441834556],[-51.2422181650688,-30.0915533117259]]]}
+       },
+       {
+         "id": "181",
+         "situacao": "CONCLUIDO",
+         "nome": "ICARAI",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2423611876806,-30.0921123277102],[-51.2424342272668,-30.0924200228074]]]}
+       },
+       {
+         "id": "182",
+         "situacao": "CONCLUIDO",
+         "nome": "ICARAI",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2424342272668,-30.0924200228074],[-51.2425403179462,-30.0927220181554]]]}
+       },
+       {
+         "id": "183",
+         "situacao": "CONCLUIDO",
+         "nome": "ICARAI",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2425403179462,-30.0927220181554],[-51.2425841990541,-30.0928369504435]]]}
+       },
+       {
+         "id": "184",
+         "situacao": "CONCLUIDO",
+         "nome": "ICARAI",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2425841990541,-30.0928369504435],[-51.2425848265761,-30.0928381535015],[-51.2426411949591,-30.0929462203832]]]}
+       },
+       {
+         "id": "185",
+         "situacao": "CONCLUIDO",
+         "nome": "ICARAI",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2426411949591,-30.0929462203832],[-51.2427152677149,-30.0930791381467]]]}
+       },
+       {
+         "id": "186",
+         "situacao": "CONCLUIDO",
+         "nome": "ICARAI",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2428382356871,-30.0932559406203],[-51.2430172267821,-30.0934754881265],[-51.2433861481351,-30.0938130789395],[-51.2440701476195,-30.0942752458115]]]}
+       },
+       {
+         "id": "187",
+         "situacao": "CONCLUIDO",
+         "nome": "WENCESLAU ESCOBAR",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2481781101189,-30.0981272538183],[-51.2482571343155,-30.0984856746856]]]}
+       },
+       {
+         "id": "188",
+         "situacao": "CONCLUIDO",
+         "nome": "ICARAI",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2440701476195,-30.0942752458115],[-51.2478375594648,-30.0968907106621],[-51.2480311055943,-30.09741828473]]]}
+       },
+       {
+         "id": "189",
+         "situacao": "CONCLUIDO",
+         "nome": "WENCESLAU ESCOBAR",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2482571343155,-30.0984856746856],[-51.2485801893247,-30.0999125781057],[-51.2488121323423,-30.1005537310504]]]}
+       },
+       {
+         "id": "190",
+         "situacao": "CONCLUIDO",
+         "nome": "WENCESLAU ESCOBAR",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2488121323423,-30.1005537310504],[-51.2489551974298,-30.1007214694135],[-51.2493171562337,-30.1009789986745]]]}
+       },
+       {
+         "id": "191",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1445680070185,-30.1462154469756],[-51.1450380314181,-30.1462510108481]]]}
+       },
+       {
+         "id": "192",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1450380314181,-30.1462510108481],[-51.1452470910948,-30.1462654383668]]]}
+       },
+       {
+         "id": "193",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1452470910948,-30.1462654383668],[-51.145549083378,-30.1462854000499]]]}
+       },
+       {
+         "id": "194",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1507750003606,-30.1466775349604],[-51.1509838996525,-30.1466919535218]]]}
+       },
+       {
+         "id": "195",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1418451226717,-30.1467607804963],[-51.1422740871688,-30.1465483326597]]]}
+       },
+       {
+         "id": "196",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1355481559134,-30.1498547306961],[-51.1366142425484,-30.1493360694142]]]}
+       },
+       {
+         "id": "197",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.145549083378,-30.1462854000499],[-51.1459329821087,-30.1463120355934]]]}
+       },
+       {
+         "id": "198",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1427150421022,-30.1463302322967],[-51.1431040757314,-30.1462069029847]]]}
+       },
+       {
+         "id": "199",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1459329821087,-30.1463120355934],[-51.1462769833524,-30.1463364594759]]]}
+       },
+       {
+         "id": "200",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1462769833524,-30.1463364594759],[-51.1465979581061,-30.1463620356759]]]}
+       },
+       {
+         "id": "201",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1465979581061,-30.1463620356759],[-51.1466840795397,-30.1463675769761]]]}
+       },
+       {
+         "id": "202",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1466840795397,-30.1463675769761],[-51.1471090218536,-30.1464031837981]]]}
+       },
+       {
+         "id": "203",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1471090218536,-30.1464031837981],[-51.1473680423994,-30.1464254450258]]]}
+       },
+       {
+         "id": "204",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1473680423994,-30.1464254450258],[-51.1480959543984,-30.1464832593558]]]}
+       },
+       {
+         "id": "205",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1423901221469,-30.1464929557945],[-51.1427150421022,-30.1463302322967]]]}
+       },
+       {
+         "id": "206",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1422740871688,-30.1465483326597],[-51.1423901221469,-30.1464929557945]]]}
+       },
+       {
+         "id": "207",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1480959543984,-30.1464832593558],[-51.1489260405725,-30.1465443368485]]]}
+       },
+       {
+         "id": "208",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1489260405725,-30.1465443368485],[-51.1495099221261,-30.1465865210621]]]}
+       },
+       {
+         "id": "209",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1495099221261,-30.1465865210621],[-51.1503150302153,-30.1466442351318]]]}
+       },
+       {
+         "id": "210",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1503150302153,-30.1466442351318],[-51.1507750003606,-30.1466775349604]]]}
+       },
+       {
+         "id": "211",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1366142425484,-30.1493360694142],[-51.1371312344783,-30.1490829538362]]]}
+       },
+       {
+         "id": "212",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1385162252247,-30.1483925523319],[-51.1387812054218,-30.1482671116902]]]}
+       },
+       {
+         "id": "213",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1351412026311,-30.1500558588311],[-51.1355481559134,-30.1498547306961]]]}
+       },
+       {
+         "id": "214",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1347891884547,-30.1502287394545],[-51.1351412026311,-30.1500558588311]]]}
+       },
+       {
+         "id": "215",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.133504337561,-30.1508930654671],[-51.1337772152434,-30.1507213964797],[-51.1342443046632,-30.1504931499074]]]}
+       },
+       {
+         "id": "216",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1431040757314,-30.1462069029847],[-51.1433029955228,-30.1461627105216],[-51.1436329973943,-30.1461510742529]]]}
+       },
+       {
+         "id": "217",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1436329973943,-30.1461510742529],[-51.1445680070185,-30.1462154469756]]]}
+       },
+       {
+         "id": "218",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1414091822965,-30.1469732350205],[-51.1418451226717,-30.1467607804963]]]}
+       },
+       {
+         "id": "219",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1509838996525,-30.1466919535218],[-51.1524389047036,-30.1467962633767],[-51.1525438749771,-30.1468254587789],[-51.1526109178493,-30.1468682282141],[-51.1526829160833,-30.1469696265419],[-51.1527779024848,-30.1471499277884]]]}
+       },
+       {
+         "id": "220",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1409740581852,-30.1471901972239],[-51.1414091822965,-30.1469732350205]]]}
+       },
+       {
+         "id": "221",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1406241688966,-30.1473608362438],[-51.1409740581852,-30.1471901972239]]]}
+       },
+       {
+         "id": "222",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1527779024848,-30.1471499277884],[-51.1529438665705,-30.1475049199504]]]}
+       },
+       {
+         "id": "223",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1401391377814,-30.1476105484086],[-51.1406241688966,-30.1473608362438]]]}
+       },
+       {
+         "id": "224",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.139885185968,-30.1477337250415],[-51.1401391377814,-30.1476105484086]]]}
+       },
+       {
+         "id": "225",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1392171596449,-30.1480569214776],[-51.139885185968,-30.1477337250415]]]}
+       },
+       {
+         "id": "226",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1387812054218,-30.1482671116902],[-51.1392171596449,-30.1480569214776]]]}
+       },
+       {
+         "id": "227",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1342443046632,-30.1504931499074],[-51.1347891884547,-30.1502287394545]]]}
+       },
+       {
+         "id": "228",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1378631148299,-30.1487191086261],[-51.1385162252247,-30.1483925523319]]]}
+       },
+       {
+         "id": "229",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1375362349661,-30.1488829496427],[-51.1378631148299,-30.1487191086261]]]}
+       },
+       {
+         "id": "230",
+         "situacao": "CONCLUIDO",
+         "nome": "IGNES E FAGUNDES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1371312344783,-30.1490829538362],[-51.1375362349661,-30.1488829496427]]]}
+       },
+       {
+         "id": "231",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO WALLIG",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1640676440796,-30.019747477822],[-51.1639625024947,-30.0205188842012]]]}
+       },
+       {
+         "id": "232",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO WALLIG",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1639625024947,-30.0205188842012],[-51.1639135079512,-30.0209620899991],[-51.1635305595979,-30.0228016730727]]]}
+       },
+       {
+         "id": "233",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO WALLIG",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1635305595979,-30.0228016730727],[-51.163491598191,-30.0232414835305],[-51.1634576450732,-30.0243646101055],[-51.1633915089134,-30.0279876516539]]]}
+       },
+       {
+         "id": "234",
+         "situacao": "CONCLUIDO",
+         "nome": "DR NILO PECANHA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1633915089134,-30.0279876516539],[-51.1633406287799,-30.0279764390336],[-51.1632676084094,-30.0279956986835],[-51.163053644543,-30.0280016021935],[-51.1626105872326,-30.0279728332036]]]}
+       },
+       {
+         "id": "235",
+         "situacao": "CONCLUIDO",
+         "nome": "DR NILO PECANHA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1626105872326,-30.0279728332036],[-51.1619016789622,-30.0280165555389]]]}
+       },
+       {
+         "id": "236",
+         "situacao": "CONCLUIDO",
+         "nome": "DR NILO PECANHA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1619016789622,-30.0280165555389],[-51.1612485907758,-30.0280218681915]]]}
+       },
+       {
+         "id": "237",
+         "situacao": "CONCLUIDO",
+         "nome": "PADRE CACIQUE",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2435472408608,-30.0759451291081],[-51.2439471969431,-30.0764743515995],[-51.2443501802376,-30.076849088314],[-51.244426153174,-30.0769019435145]]]}
+       },
+       {
+         "id": "238",
+         "situacao": "CONCLUIDO",
+         "nome": "PADRE CACIQUE",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.244426153174,-30.0769019435145],[-51.2447581341276,-30.0771347354205],[-51.2465681770592,-30.0781224969262],[-51.2467591363499,-30.078274362245],[-51.2468800914001,-30.0784286138026],[-51.2469862164047,-30.0786144656981],[-51.2470320746983,-30.0788083239263],[-51.2470901036899,-30.0792039956388],[-51.2471071268695,-30.0794024180634],[-51.2471001403866,-30.0795907374533],[-51.247069118224,-30.07975880569],[-51.2469991667072,-30.0799134158057],[-51.2467961442619,-30.0801911824454]]]}
+       },
+       {
+         "id": "239",
+         "situacao": "CONCLUIDO",
+         "nome": "DIARIO DE NOTICIAS",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2467961442619,-30.0801911824454],[-51.2465771517499,-30.0806302224137],[-51.2465231876416,-30.0808930506906],[-51.2464961040091,-30.0809506079369],[-51.2465571888075,-30.0814026535425],[-51.2466611288572,-30.0818174085486]]]}
+       },
+       {
+         "id": "240",
+         "situacao": "CONCLUIDO",
+         "nome": "DIARIO DE NOTICIAS",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2466611288572,-30.0818174085486],[-51.2490940927376,-30.0913386213213]]]}
+       },
+       {
+         "id": "241",
+         "situacao": "CONCLUIDO",
+         "nome": "DIARIO DE NOTICIAS",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2490940927376,-30.0913386213213],[-51.249748080574,-30.0937853550663],[-51.2498901261977,-30.0941312522292],[-51.2502310543172,-30.0946707139656],[-51.2503490544075,-30.0949287044691]]]}
+       },
+       {
+         "id": "242",
+         "situacao": "CONCLUIDO",
+         "nome": "EDVALDO PEREIRA PAIVA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2435472408608,-30.0759451291081],[-51.2425591775967,-30.0741484605415],[-51.2415631578607,-30.0726630122771],[-51.2406892054459,-30.0707161509369],[-51.2381972312241,-30.0634049218186],[-51.237707217169,-30.0625826715953],[-51.2371952435979,-30.061993869275],[-51.2356012976214,-30.0604102220494],[-51.2348883099331,-30.0596323354798],[-51.2345523080083,-30.059240535649],[-51.2343778292676,-30.0589946783137],[-51.2342100978175,-30.0587452930845],[-51.2340492078273,-30.0584925200492],[-51.2338952496215,-30.058236501197],[-51.2337483096285,-30.0579773803399],[-51.2336084703326,-30.057715303031],[-51.2334758102276,-30.0574504164828],[-51.2333504037726,-30.057182869485],[-51.2332323213508,-30.0569128123203],[-51.2332238043893,-30.0568926155429],[-51.2331343179697,-30.0566722819491],[-51.2330507785509,-30.0564501883547],[-51.2329732317754,-30.0562264562079],[-51.2329017200075,-30.056001207852],[-51.2328362823107,-30.0557745664585],[-51.2327769544263,-30.05554665596],[-51.2326753960974,-30.0551336011068],[-51.2326713129907,-30.0551169720516],[-51.2326681775894,-30.055104096664],[-51.2326632789951,-30.0550837914674],[-51.2326105532262,-30.0548482469324],[-51.2325650934255,-30.0546115591094]]]}
+       },
+       {
+         "id": "243",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAQUIM SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1426289228322,-29.9993223518056],[-51.1426728671935,-29.9985724507202]]]}
+       },
+       {
+         "id": "244",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAQUIM SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1425868593173,-30.0000294018439],[-51.1426289228322,-29.9993223518056]]]}
+       },
+       {
+         "id": "245",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAQUIM SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1426728671935,-29.9985724507202],[-51.1427168695043,-29.9977503831043]]]}
+       },
+       {
+         "id": "246",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAQUIM SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1425599482269,-30.0006879488453],[-51.142584997178,-30.0000857842498]]]}
+       },
+       {
+         "id": "247",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAQUIM SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1424719426874,-30.0021088190112],[-51.1425149885474,-30.0014085333272]]]}
+       },
+       {
+         "id": "248",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAQUIM SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1425149885474,-30.0014085333272],[-51.1425599482269,-30.0006879488453]]]}
+       },
+       {
+         "id": "249",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAQUIM SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1424748650525,-30.003247690365],[-51.1424508576376,-30.0028789915287],[-51.1424719426874,-30.0021088190112]]]}
+       },
+       {
+         "id": "250",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAQUIM SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.142509875094,-30.0036096115298],[-51.1424748650525,-30.003247690365]]]}
+       },
+       {
+         "id": "251",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAQUIM SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1427528513714,-30.0059197971293],[-51.1427009867841,-30.0055500011734]]]}
+       },
+       {
+         "id": "252",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAQUIM SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1427009867841,-30.0055500011734],[-51.142509875094,-30.0036096115298]]]}
+       },
+       {
+         "id": "253",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAQUIM SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1428209143972,-30.0066312377395],[-51.1427919887552,-30.0064485983885],[-51.1427528513714,-30.0059197971293]]]}
+       },
+       {
+         "id": "254",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAQUIM SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.142964851605,-30.0080777899017],[-51.1428209143972,-30.0066312377395]]]}
+       },
+       {
+         "id": "255",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAQUIM SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.143016987008,-30.0086347658002],[-51.142964851605,-30.0080777899017]]]}
+       },
+       {
+         "id": "256",
+         "situacao": "CONCLUIDO",
+         "nome": "JOSE DO PATROCINIO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2260585106415,-30.0371580675132],[-51.2255205211991,-30.0376540029997]]]}
+       },
+       {
+         "id": "257",
+         "situacao": "CONCLUIDO",
+         "nome": "JOSE DO PATROCINIO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2255205211991,-30.0376540029997],[-51.2246444915258,-30.0384583459469]]]}
+       },
+       {
+         "id": "258",
+         "situacao": "CONCLUIDO",
+         "nome": "JOSE DO PATROCINIO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2246444915258,-30.0384583459469],[-51.2241234469229,-30.0389316946462]]]}
+       },
+       {
+         "id": "259",
+         "situacao": "CONCLUIDO",
+         "nome": "JOSE DO PATROCINIO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2241234469229,-30.0389316946462],[-51.2229265078789,-30.040110932516]]]}
+       },
+       {
+         "id": "260",
+         "situacao": "CONCLUIDO",
+         "nome": "JOSE DO PATROCINIO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2229265078789,-30.040110932516],[-51.2223486167437,-30.0406711950665]]]}
+       },
+       {
+         "id": "261",
+         "situacao": "CONCLUIDO",
+         "nome": "JOSE DO PATROCINIO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2223486167437,-30.0406711950665],[-51.2216215528015,-30.04139295184]]]}
+       },
+       {
+         "id": "262",
+         "situacao": "CONCLUIDO",
+         "nome": "JOSE DO PATROCINIO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2216215528015,-30.04139295184],[-51.2210565998926,-30.0419498037263]]]}
+       },
+       {
+         "id": "263",
+         "situacao": "CONCLUIDO",
+         "nome": "JOSE DO PATROCINIO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2210565998926,-30.0419498037263],[-51.2199055414815,-30.043104129587]]]}
+       },
+       {
+         "id": "264",
+         "situacao": "CONCLUIDO",
+         "nome": "GUAIBA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2358754201835,-30.1338579963636],[-51.2338254387404,-30.1349272195453]]]}
+       },
+       {
+         "id": "265",
+         "situacao": "CONCLUIDO",
+         "nome": "GUAIBA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2338254387404,-30.1349272195453],[-51.2329115366534,-30.1354058073569]]]}
+       },
+       {
+         "id": "266",
+         "situacao": "CONCLUIDO",
+         "nome": "GUAIBA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2329115366534,-30.1354058073569],[-51.2325168203364,-30.135613786984],[-51.2320574217515,-30.1360060607221]]]}
+       },
+       {
+         "id": "267",
+         "situacao": "CONCLUIDO",
+         "nome": "GUAIBA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2320574217515,-30.1360060607221],[-51.2313275634762,-30.1366308963836]]]}
+       },
+       {
+         "id": "268",
+         "situacao": "CONCLUIDO",
+         "nome": "GUAIBA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2313275634762,-30.1366308963836],[-51.2304314255834,-30.1373392902172]]]}
+       },
+       {
+         "id": "269",
+         "situacao": "CONCLUIDO",
+         "nome": "GUAIBA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2304314255834,-30.1373392902172],[-51.2297217626588,-30.1379065385131]]]}
+       },
+       {
+         "id": "270",
+         "situacao": "CONCLUIDO",
+         "nome": "GUAIBA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2297217626588,-30.1379065385131],[-51.2290772175747,-30.1385823313983]]]}
+       },
+       {
+         "id": "271",
+         "situacao": "CONCLUIDO",
+         "nome": "DONA ADDA MASCARENHAS DE MORAES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1355000458912,-30.0107716231431],[-51.1355601034834,-30.0113477636449]]]}
+       },
+       {
+         "id": "272",
+         "situacao": "CONCLUIDO",
+         "nome": "DONA ADDA MASCARENHAS DE MORAES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1355601034834,-30.0113477636449],[-51.1356070878301,-30.0117186946905]]]}
+       },
+       {
+         "id": "273",
+         "situacao": "CONCLUIDO",
+         "nome": "DONA ADDA MASCARENHAS DE MORAES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1357691026653,-30.0133106951218],[-51.1358460304031,-30.0140232570115]]]}
+       },
+       {
+         "id": "274",
+         "situacao": "CONCLUIDO",
+         "nome": "DONA ADDA MASCARENHAS DE MORAES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1356070878301,-30.0117186946905],[-51.1356450781893,-30.0120253619974]]]}
+       },
+       {
+         "id": "275",
+         "situacao": "CONCLUIDO",
+         "nome": "DONA ADDA MASCARENHAS DE MORAES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1356450781893,-30.0120253619974],[-51.1357250315551,-30.0127018378758]]]}
+       },
+       {
+         "id": "276",
+         "situacao": "CONCLUIDO",
+         "nome": "DONA ADDA MASCARENHAS DE MORAES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1357250315551,-30.0127018378758],[-51.1357691026653,-30.0133106951218]]]}
+       },
+       {
+         "id": "277",
+         "situacao": "CONCLUIDO",
+         "nome": "DONA ADDA MASCARENHAS DE MORAES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1365370538334,-30.0203776745125],[-51.1366006529351,-30.0210932596057],[-51.1366880690761,-30.0220768047037]]]}
+       },
+       {
+         "id": "278",
+         "situacao": "CONCLUIDO",
+         "nome": "DONA ADDA MASCARENHAS DE MORAES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1363020687749,-30.0182659309511],[-51.1364091174127,-30.0192062355805]]]}
+       },
+       {
+         "id": "279",
+         "situacao": "CONCLUIDO",
+         "nome": "DONA ADDA MASCARENHAS DE MORAES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1358460304031,-30.0140232570115],[-51.1359711010412,-30.0148846115291]]]}
+       },
+       {
+         "id": "280",
+         "situacao": "CONCLUIDO",
+         "nome": "DONA ADDA MASCARENHAS DE MORAES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1359711010412,-30.0148846115291],[-51.1360060021899,-30.0152995310504]]]}
+       },
+       {
+         "id": "281",
+         "situacao": "CONCLUIDO",
+         "nome": "DONA ADDA MASCARENHAS DE MORAES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1360060021899,-30.0152995310504],[-51.1360951096707,-30.0160335046791]]]}
+       },
+       {
+         "id": "282",
+         "situacao": "CONCLUIDO",
+         "nome": "DONA ADDA MASCARENHAS DE MORAES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1360951096707,-30.0160335046791],[-51.13618111946,-30.0167516942967]]]}
+       },
+       {
+         "id": "283",
+         "situacao": "CONCLUIDO",
+         "nome": "DONA ADDA MASCARENHAS DE MORAES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.13618111946,-30.0167516942967],[-51.1362310806177,-30.017401138085]]]}
+       },
+       {
+         "id": "284",
+         "situacao": "CONCLUIDO",
+         "nome": "DONA ADDA MASCARENHAS DE MORAES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1362310806177,-30.017401138085],[-51.1363020687749,-30.0182659309511]]]}
+       },
+       {
+         "id": "285",
+         "situacao": "CONCLUIDO",
+         "nome": "DONA ADDA MASCARENHAS DE MORAES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1364091174127,-30.0192062355805],[-51.1365370538334,-30.0203776745125]]]}
+       },
+       {
+         "id": "286",
+         "situacao": "CONCLUIDO",
+         "nome": "DR BARROS CASSAL",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2173256483091,-30.0306316289966],[-51.2173277026596,-30.031722006601]]]}
+       },
+       {
+         "id": "287",
+         "situacao": "CONCLUIDO",
+         "nome": "GEN JOAO TELLES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2124007773633,-30.031638718037],[-51.2125116596398,-30.032210227653]]]}
+       },
+       {
+         "id": "288",
+         "situacao": "CONCLUIDO",
+         "nome": "DR BARROS CASSAL",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2173277026596,-30.031722006601],[-51.2173305755978,-30.032964607549]]]}
+       },
+       {
+         "id": "289",
+         "situacao": "CONCLUIDO",
+         "nome": "GEN JOAO TELLES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2125116596398,-30.032210227653],[-51.2126716497236,-30.0330207073968]]]}
+       },
+       {
+         "id": "290",
+         "situacao": "CONCLUIDO",
+         "nome": "MARIANTE",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2037934706537,-30.0327663924592],[-51.2039969780849,-30.0331877964766]]]}
+       },
+       {
+         "id": "291",
+         "situacao": "CONCLUIDO",
+         "nome": "MARIANTE",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2039969780849,-30.0331877964766],[-51.2042119065306,-30.0338065110014]]]}
+       },
+       {
+         "id": "292",
+         "situacao": "CONCLUIDO",
+         "nome": "LOUREIRO DA SILVA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2209584836367,-30.0344548777057],[-51.2207005152653,-30.0342715130641],[-51.2206465189714,-30.0342467964939],[-51.2205675832171,-30.0342255048494],[-51.2203806347604,-30.0342190524572]]]}
+       },
+       {
+         "id": "293",
+         "situacao": "CONCLUIDO",
+         "nome": "GEN JOAO TELLES",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2126716497236,-30.0330207073968],[-51.2130007826802,-30.0346766065495]]]}
+       },
+       {
+         "id": "294",
+         "situacao": "CONCLUIDO",
+         "nome": "LOUREIRO DA SILVA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2213495477462,-30.0346842485337],[-51.2209584836367,-30.0344548777057]]]}
+       },
+       {
+         "id": "295",
+         "situacao": "CONCLUIDO",
+         "nome": "LOUREIRO DA SILVA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2365203402021,-30.036887093479],[-51.2351122350431,-30.0369956104053],[-51.2328043276075,-30.0372737199158]]]}
+       },
+       {
+         "id": "296",
+         "situacao": "CONCLUIDO",
+         "nome": "LOUREIRO DA SILVA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2372812529015,-30.0371732590421],[-51.2365203402021,-30.036887093479]]]}
+       },
+       {
+         "id": "297",
+         "situacao": "CONCLUIDO",
+         "nome": "SILVA SO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2046678776729,-30.0430170904714],[-51.2046838988214,-30.0434816322619]]]}
+       },
+       {
+         "id": "298",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2183375783895,-30.047859529068],[-51.2182556528528,-30.0483264868262]]]}
+       },
+       {
+         "id": "299",
+         "situacao": "CONCLUIDO",
+         "nome": "FREI GERMANO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1670835568533,-30.0559348749173],[-51.167152625961,-30.0554803690375]]]}
+       },
+       {
+         "id": "300",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.149925799885,-30.0646966222194],[-51.1497560247362,-30.0650321779908],[-51.1494288651121,-30.0655834717547]]]}
+       },
+       {
+         "id": "301",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.150168813271,-30.0639160536497],[-51.149925799885,-30.0646966222194]]]}
+       },
+       {
+         "id": "302",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1494288651121,-30.0655834717547],[-51.1491749485915,-30.065907377821],[-51.1487098800968,-30.066331877605],[-51.1483463454444,-30.0666083817622],[-51.1477114773914,-30.0669213963772],[-51.1469158623402,-30.0671660539995],[-51.1448640114177,-30.0676723625091]]]}
+       },
+       {
+         "id": "303",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1448640114177,-30.0676723625091],[-51.1435029476657,-30.0680764040912]]]}
+       },
+       {
+         "id": "304",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1478700454741,-30.1494163326553],[-51.1490719665213,-30.1488985447124]]]}
+       },
+       {
+         "id": "305",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1506059848633,-30.1483645789601],[-51.1509890162341,-30.1482412332081]]]}
+       },
+       {
+         "id": "306",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1501248854276,-30.1485196075576],[-51.1506059848633,-30.1483645789601]]]}
+       },
+       {
+         "id": "307",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1462110594665,-30.1501296898895],[-51.1470230530438,-30.1497814906228]]]}
+       },
+       {
+         "id": "308",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1458050525737,-30.1502981501432],[-51.1462110594665,-30.1501296898895]]]}
+       },
+       {
+         "id": "309",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1522779860909,-30.1478236696879],[-51.1529488777225,-30.1475996305696],[-51.1529438665705,-30.1475049199504]]]}
+       },
+       {
+         "id": "310",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1513910097082,-30.1481110994623],[-51.1522779860909,-30.1478236696879]]]}
+       },
+       {
+         "id": "311",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1509890162341,-30.1482412332081],[-51.1513910097082,-30.1481110994623]]]}
+       },
+       {
+         "id": "312",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1499099318543,-30.1485796148305],[-51.1501248854276,-30.1485196075576]]]}
+       },
+       {
+         "id": "313",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1498019750204,-30.1486135654256],[-51.1499099318543,-30.1485796148305]]]}
+       },
+       {
+         "id": "314",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1494949821266,-30.1487244174663],[-51.1498019750204,-30.1486135654256]]]}
+       },
+       {
+         "id": "315",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1493139447963,-30.1487990432234],[-51.1494949821266,-30.1487244174663]]]}
+       },
+       {
+         "id": "316",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1490719665213,-30.1488985447124],[-51.1493139447963,-30.1487990432234]]]}
+       },
+       {
+         "id": "317",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1473909593898,-30.1496232174734],[-51.1478700454741,-30.1494163326553]]]}
+       },
+       {
+         "id": "318",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1472609741074,-30.1496774868855],[-51.1473909593898,-30.1496232174734]]]}
+       },
+       {
+         "id": "319",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1470230530438,-30.1497814906228],[-51.1472609741074,-30.1496774868855]]]}
+       },
+       {
+         "id": "320",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1419421042824,-30.1522000897011],[-51.1423410289766,-30.151833196832]]]}
+       },
+       {
+         "id": "321",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1416440895294,-30.1524789222304],[-51.1419421042824,-30.1522000897011]]]}
+       },
+       {
+         "id": "322",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1427550943879,-30.1516207631231],[-51.1458050525737,-30.1502981501432]]]}
+       },
+       {
+         "id": "323",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1423410289766,-30.151833196832],[-51.1425200860351,-30.1517270105214],[-51.1427550943879,-30.1516207631231]]]}
+       },
+       {
+         "id": "324",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.141145080563,-30.1529507851127],[-51.1416440895294,-30.1524789222304]]]}
+       },
+       {
+         "id": "325",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1409861933212,-30.153100923282],[-51.141145080563,-30.1529507851127]]]}
+       },
+       {
+         "id": "326",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1406551325,-30.1534113607807],[-51.1409861933212,-30.153100923282]]]}
+       },
+       {
+         "id": "327",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1401570889347,-30.1538843469025],[-51.1406551325,-30.1534113607807]]]}
+       },
+       {
+         "id": "328",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1395791912947,-30.1544340907068],[-51.1401570889347,-30.1538843469025]]]}
+       },
+       {
+         "id": "329",
+         "situacao": "CONCLUIDO",
+         "nome": "ECON NILO WULFF",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1392581890215,-30.1547524070195],[-51.1395791912947,-30.1544340907068]]]}
+       },
+       {
+         "id": "330",
+         "situacao": "CONCLUIDO",
+         "nome": "DEA COUFAL",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2349513882852,-30.1332688045054],[-51.2334114059674,-30.1322837972009]]]}
+       },
+       {
+         "id": "331",
+         "situacao": "CONCLUIDO",
+         "nome": "DEA COUFAL",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2358754201835,-30.1338579963636],[-51.2356593805523,-30.1336982687766],[-51.2349513882852,-30.1332688045054]]]}
+       },
+       {
+         "id": "332",
+         "situacao": "CONCLUIDO",
+         "nome": "ECOVILLE",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1224883472522,-29.998681857736],[-51.1227592716775,-29.9992194701228]]]}
+       },
+       {
+         "id": "333",
+         "situacao": "CONCLUIDO",
+         "nome": "ECOVILLE",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1223233539258,-29.9939393244214],[-51.1222063064701,-29.9946193760464],[-51.1220322431024,-29.9954178789048]]]}
+       },
+       {
+         "id": "334",
+         "situacao": "CONCLUIDO",
+         "nome": "ECOVILLE",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1220322431024,-29.9954178789048],[-51.122062222381,-29.996230850874],[-51.1221093444855,-29.996760779419]]]}
+       },
+       {
+         "id": "335",
+         "situacao": "CONCLUIDO",
+         "nome": "ECOVILLE",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1221093444855,-29.996760779419],[-51.1221473597031,-29.9972591432621],[-51.1221932417378,-29.9975691904821]]]}
+       },
+       {
+         "id": "336",
+         "situacao": "CONCLUIDO",
+         "nome": "ECOVILLE",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1221932417378,-29.9975691904821],[-51.122251325061,-29.9979254584452],[-51.1223902090372,-29.9984113250425],[-51.1224883472522,-29.998681857736]]]}
+       },
+       {
+         "id": "337",
+         "situacao": "CONCLUIDO",
+         "nome": "ECOVILLE",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1227592716775,-29.9992194701228],[-51.1229972508243,-29.9998270245842],[-51.123125323586,-30.0002080333801]]]}
+       },
+       {
+         "id": "338",
+         "situacao": "CONCLUIDO",
+         "nome": "ECOVILLE",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.123125323586,-30.0002080333801],[-51.1232942989149,-30.0007953544998],[-51.1233782288126,-30.0016195513668],[-51.1233312158707,-30.0024946124144],[-51.1231882498782,-30.0033009794006]]]}
+       },
+       {
+         "id": "339",
+         "situacao": "CONCLUIDO",
+         "nome": "ECOVILLE",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1231882498782,-30.0033009794006],[-51.1231223105812,-30.0035389642597]]]}
+       },
+       {
+         "id": "340",
+         "situacao": "CONCLUIDO",
+         "nome": "ECOVILLE",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1231223105812,-30.0035389642597],[-51.1229722957337,-30.004016078902],[-51.1227032228394,-30.0051258872044],[-51.1226723009835,-30.0055284689667]]]}
+       },
+       {
+         "id": "341",
+         "situacao": "CONCLUIDO",
+         "nome": "ECOVILLE",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1226723009835,-30.0055284689667],[-51.1226712103814,-30.0055634256129]]]}
+       },
+       {
+         "id": "342",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2104068286629,-30.0462419616826],[-51.2095657697028,-30.0457437826519]]]}
+       },
+       {
+         "id": "343",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2118077731111,-30.0471090845852],[-51.2116996617249,-30.0470089033003],[-51.2104068286629,-30.0462419616826]]]}
+       },
+       {
+         "id": "344",
+         "situacao": "CONCLUIDO",
+         "nome": "MONTEVIDEO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2281764531024,-30.0284099449525],[-51.2287694093297,-30.0286006057206]]]}
+       },
+       {
+         "id": "345",
+         "situacao": "CONCLUIDO",
+         "nome": "SETE DE SETEMBRO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2300293900098,-30.0290686144755],[-51.2287694093297,-30.0286006057206]]]}
+       },
+       {
+         "id": "346",
+         "situacao": "CONCLUIDO",
+         "nome": "SETE DE SETEMBRO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2336672980965,-30.030313830259],[-51.2331582609052,-30.0301365737993],[-51.2322743721778,-30.0298776635763]]]}
+       },
+       {
+         "id": "347",
+         "situacao": "CONCLUIDO",
+         "nome": "SETE DE SETEMBRO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2346962396646,-30.0306717004076],[-51.2336672980965,-30.030313830259]]]}
+       },
+       {
+         "id": "348",
+         "situacao": "CONCLUIDO",
+         "nome": "SETE DE SETEMBRO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2355463589631,-30.030961099477],[-51.2346962396646,-30.0306717004076]]]}
+       },
+       {
+         "id": "349",
+         "situacao": "CONCLUIDO",
+         "nome": "SETE DE SETEMBRO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2360633370911,-30.0311360773597],[-51.2355463589631,-30.030961099477]]]}
+       },
+       {
+         "id": "350",
+         "situacao": "CONCLUIDO",
+         "nome": "RICARDO LEONIDAS RIBAS",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1310032298669,-30.1472219505697],[-51.1339243198251,-30.1462853717697]]]}
+       },
+       {
+         "id": "351",
+         "situacao": "CONCLUIDO",
+         "nome": "SETE MIL CENTO VINTE CINCO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1312432354629,-30.1434161472862],[-51.1317852249358,-30.1438034899843],[-51.1320213277702,-30.1440377882623],[-51.1326062173886,-30.1444859735352],[-51.1328402215246,-30.1447247824378],[-51.1339243198251,-30.1462853717697]]]}
+       },
+       {
+         "id": "352",
+         "situacao": "CONCLUIDO",
+         "nome": "SETE MIL CENTO VINTE CINCO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1281053676582,-30.141200179403],[-51.1301143145856,-30.1426144378382]]]}
+       },
+       {
+         "id": "353",
+         "situacao": "CONCLUIDO",
+         "nome": "SETE MIL CENTO VINTE CINCO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1301143145856,-30.1426144378382],[-51.1312432354629,-30.1434161472862]]]}
+       },
+       {
+         "id": "354",
+         "situacao": "CONCLUIDO",
+         "nome": "SETE MIL CENTO VINTE UM",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1301143145856,-30.1426144378382],[-51.130344245443,-30.1423526123722],[-51.1306672212431,-30.1420636321179],[-51.1309533416443,-30.1418648938267],[-51.13124323759,-30.1417022335333],[-51.1314463089191,-30.1416118243613],[-51.1319003129383,-30.1414489981947],[-51.1322482070672,-30.1413674627941],[-51.1325862566391,-30.1413220188153]]]}
+       },
+       {
+         "id": "355",
+         "situacao": "CONCLUIDO",
+         "nome": "SETE MIL CENTO VINTE UM",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1287123009416,-30.1446657506224],[-51.1291223119002,-30.1443293308927],[-51.1293803837928,-30.1440043353088],[-51.12960239415,-30.1436342718246],[-51.12971029685,-30.1433094237343],[-51.129808286076,-30.1430928325229],[-51.1299302755023,-30.1428762174801],[-51.1301143145856,-30.1426144378382]]]}
+       },
+       {
+         "id": "356",
+         "situacao": "CONCLUIDO",
+         "nome": null,
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2466611288572,-30.0818174085486],[-51.2464930982511,-30.0815685280344],[-51.2464121776779,-30.081417584263],[-51.2462951788008,-30.0812915144122],[-51.24617915481,-30.0812319697306],[-51.2460051094424,-30.0812368062164],[-51.2458661337348,-30.0812675107484],[-51.2456391323855,-30.08128823151]]]}
+       },
+       {
+         "id": "357",
+         "situacao": "CONCLUIDO",
+         "nome": null,
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2173256483091,-30.0306316289966],[-51.2167126645218,-30.0306123435891]]]}
+       },
+       {
+         "id": "358",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1774544295423,-30.0584200248079],[-51.1750729023662,-30.0573824533511]]]}
+       },
+       {
+         "id": "359",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1842332269656,-30.0580927224441],[-51.1835121982647,-30.0584398999432]]]}
+       },
+       {
+         "id": "360",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1796273892928,-30.0591409857873],[-51.1792163716062,-30.0590784016886],[-51.1784172806244,-30.0588269086449],[-51.1774544295423,-30.0584200248079]]]}
+       },
+       {
+         "id": "361",
+         "situacao": "CONCLUIDO",
+         "nome": "IPIRANGA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1835121982647,-30.0584398999432],[-51.1828222510916,-30.058774627024],[-51.1824422465772,-30.058925124212],[-51.1818402823662,-30.0590872031647],[-51.1812153509143,-30.0591839104881],[-51.180589342251,-30.0592231095577],[-51.1801113228926,-30.0592045962604],[-51.1796273892928,-30.0591409857873]]]}
+       },
+       {
+         "id": "362",
+         "situacao": "CONCLUIDO",
+         "nome": "GOMES DE FREITAS",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1431499336521,-30.0098682134098],[-51.1431428688397,-30.010699260267]]]}
+       },
+       {
+         "id": "363",
+         "situacao": "CONCLUIDO",
+         "nome": "GOMES DE FREITAS",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1431428688397,-30.010699260267],[-51.1432199717707,-30.0113858830254]]]}
+       },
+       {
+         "id": "364",
+         "situacao": "CONCLUIDO",
+         "nome": "GOMES DE FREITAS",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1432199717707,-30.0113858830254],[-51.1432889555023,-30.0120567285782]]]}
+       },
+       {
+         "id": "365",
+         "situacao": "CONCLUIDO",
+         "nome": "GOMES DE FREITAS",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1432889555023,-30.0120567285782],[-51.1433608653811,-30.0127343359854]]]}
+       },
+       {
+         "id": "366",
+         "situacao": "CONCLUIDO",
+         "nome": "GOMES DE FREITAS",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1433608653811,-30.0127343359854],[-51.1434228691775,-30.0133927850028]]]}
+       },
+       {
+         "id": "367",
+         "situacao": "CONCLUIDO",
+         "nome": "GOMES DE FREITAS",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1434228691775,-30.0133927850028],[-51.1434519904733,-30.0137096078884]]]}
+       },
+       {
+         "id": "368",
+         "situacao": "CONCLUIDO",
+         "nome": "TRES MENINAS",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1925471066893,-30.1225593397849],[-51.192473154489,-30.1228007491405],[-51.1926061486721,-30.1233248771551],[-51.1927731082637,-30.1240564297582],[-51.192794222877,-30.1242424484907],[-51.1926051863821,-30.124249491477],[-51.1900859824605,-30.1240704451962],[-51.1879583410608,-30.1248857661706],[-51.186044245766,-30.1249495906481],[-51.1840475802363,-30.1253757332012],[-51.1797015089911,-30.1291897967011]]]}
+       },
+       {
+         "id": "369",
+         "situacao": "CONCLUIDO",
+         "nome": "LYDIA MOSCHETTI",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1163434295091,-30.0164775515689],[-51.1164533540853,-30.0178238047416]]]}
+       },
+       {
+         "id": "370",
+         "situacao": "CONCLUIDO",
+         "nome": "LYDIA MOSCHETTI",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1164533540853,-30.0178238047416],[-51.1165414258183,-30.018901709375]]]}
+       },
+       {
+         "id": "371",
+         "situacao": "CONCLUIDO",
+         "nome": "LYDIA MOSCHETTI",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1165414258183,-30.018901709375],[-51.1166234906557,-30.0198273929437]]]}
+       },
+       {
+         "id": "372",
+         "situacao": "CONCLUIDO",
+         "nome": "SARGENTO SILVIO DELMAR HOLLENBACH",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1096674676016,-30.0187035220096],[-51.1097215180122,-30.019398076444]]]}
+       },
+       {
+         "id": "373",
+         "situacao": "CONCLUIDO",
+         "nome": "SARGENTO SILVIO DELMAR HOLLENBACH",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1095374863304,-30.0172986445623],[-51.1096066030887,-30.0179976973303]]]}
+       },
+       {
+         "id": "374",
+         "situacao": "CONCLUIDO",
+         "nome": "SARGENTO SILVIO DELMAR HOLLENBACH",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1096066030887,-30.0179976973303],[-51.1096674676016,-30.0187035220096]]]}
+       },
+       {
+         "id": "375",
+         "situacao": "CONCLUIDO",
+         "nome": "SARGENTO SILVIO DELMAR HOLLENBACH",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1097215180122,-30.019398076444],[-51.1097784973028,-30.0201039041576]]]}
+       },
+       {
+         "id": "376",
+         "situacao": "CONCLUIDO",
+         "nome": "SARGENTO SILVIO DELMAR HOLLENBACH",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1097784973028,-30.0201039041576],[-51.1098465429788,-30.0208570820081]]]}
+       },
+       {
+         "id": "377",
+         "situacao": "CONCLUIDO",
+         "nome": "HOMERO GUERREIRO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1226950761828,-30.0057438191488],[-51.1226712103814,-30.0055634256129]]]}
+       },
+       {
+         "id": "378",
+         "situacao": "CONCLUIDO",
+         "nome": "HOMERO GUERREIRO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1227912605922,-30.0065251548829],[-51.1226950761828,-30.0057438191488]]]}
+       },
+       {
+         "id": "379",
+         "situacao": "CONCLUIDO",
+         "nome": "JOAO ANTONIO SILVEIRA",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.1552229454827,-30.1657687549826],[-51.1548523032384,-30.1657285863828],[-51.1545458381589,-30.1655236495088]]]}
+       },
+       {
+         "id": "380",
+         "situacao": "CONCLUIDO",
+         "nome": "SALDANHA MARINHO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2212918576062,-30.0577708030877],[-51.2196079117623,-30.057915702218]]]}
+       },
+       {
+         "id": "381",
+         "situacao": "CONCLUIDO",
+         "nome": "SALDANHA MARINHO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2196079117623,-30.057915702218],[-51.2181138287483,-30.0580478611935]]]}
+       },
+       {
+         "id": "382",
+         "situacao": "CONCLUIDO",
+         "nome": "GONCALVES DIAS",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2214318232161,-30.0577592917487],[-51.2216357686731,-30.058830155591]]]}
+       },
+       {
+         "id": "383",
+         "situacao": "CONCLUIDO",
+         "nome": "ERICO VERISSIMO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2181839442647,-30.0572155859168],[-51.2181768751797,-30.0576125082333],[-51.2181138287483,-30.0580478611935]]]}
+       },
+       {
+         "id": "384",
+         "situacao": "CONCLUIDO",
+         "nome": "SALDANHA MARINHO",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2214318232161,-30.0577592917487],[-51.2212918576062,-30.0577708030877]]]}
+       },
+       {
+         "id": "385",
+         "situacao": "CONCLUIDO",
+         "nome": "GONCALVES DIAS",
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2216357686731,-30.058830155591],[-51.2219698523966,-30.0605649472584]]]}
+       },
+       {
+         "id": "386",
+         "situacao": "CONCLUIDO",
+         "nome": null,
+         "geojson": {"type":"MultiLineString","coordinates":[[[-51.2037934706537,-30.0327663924592],[-51.203932954673,-30.0327402513771],[-51.204119027702,-30.0327075702722],[-51.2042569083496,-30.0326856146942]]]}
+       }
+   ]
+}
